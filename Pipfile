@@ -4,11 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
-gradio = "*"
-joblib = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.11"
