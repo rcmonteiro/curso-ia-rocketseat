@@ -1,0 +1,501 @@
+﻿atividade_economica,faturamento_mensal,numero_de_funcionarios,localizacao,idade,inovacao,segmento_de_cliente
+Comércio,713109.95,12,Rio de Janeiro,6,1,Bronze
+Comércio,790714.38,9,São Paulo,15,0,Bronze
+Comércio,1197239.33,17,São Paulo,4,9,Silver
+Indústria,449185.78,15,São Paulo,6,0,Starter
+Agronegócio,1006373.16,15,São Paulo,15,8,Silver
+Serviços,1629562.41,16,Rio de Janeiro,11,4,Silver
+Serviços,771179.95,13,Vitória,0,1,Starter
+Serviços,707837.61,16,São Paulo,10,6,Silver
+Comércio,888983.66,17,Belo Horizonte,10,1,Bronze
+Indústria,1098512.64,13,Rio de Janeiro,9,3,Bronze
+Comércio,695548.78,11,Rio de Janeiro,10,4,Bronze
+Agronegócio,556632.55,14,Rio de Janeiro,9,4,Silver
+Serviços,800123.32,15,Rio de Janeiro,11,6,Silver
+Serviços,1544423.2,15,Vitória,9,3,Silver
+Comércio,1058543.63,12,Belo Horizonte,8,8,Silver
+Comércio,783081.11,10,Belo Horizonte,8,7,Bronze
+Serviços,566156.05,15,Vitória,8,8,Silver
+Agronegócio,1047680.24,14,Rio de Janeiro,12,0,Bronze
+Indústria,836793.37,12,Rio de Janeiro,10,7,Bronze
+Agronegócio,1072955.49,14,São Paulo,12,5,Silver
+Comércio,1125089.99,16,Rio de Janeiro,6,2,Silver
+Serviços,1424196.41,17,Vitória,16,2,Silver
+Serviços,1376884.23,17,Rio de Janeiro,9,4,Silver
+Comércio,1240936.73,19,São Paulo,13,5,Gold
+Indústria,947515.95,18,Vitória,15,2,Silver
+Comércio,1237763.98,18,São Paulo,7,1,Bronze
+Comércio,1181642.63,10,São Paulo,7,7,Silver
+Comércio,782097.18,11,Vitória,9,6,Silver
+Agronegócio,111926.48,13,Rio de Janeiro,4,2,Starter
+Indústria,489936.94,13,Belo Horizonte,12,1,Bronze
+Indústria,1164187.89,13,São Paulo,3,2,Bronze
+Indústria,1418374.5,16,Vitória,7,9,Gold
+Serviços,1325421.71,14,Vitória,12,5,Silver
+Serviços,445704.4,13,Belo Horizonte,7,6,Silver
+Agronegócio,958656.71,4,Vitória,5,5,Bronze
+Serviços,1207754.02,12,Rio de Janeiro,12,3,Silver
+Agronegócio,1258551.12,15,Vitória,12,5,Silver
+Serviços,1051870.82,16,São Paulo,9,6,Silver
+Agronegócio,1116791.99,17,Belo Horizonte,11,8,Silver
+Indústria,944040.44,10,Belo Horizonte,7,7,Silver
+Comércio,878314.15,9,Rio de Janeiro,6,6,Bronze
+Serviços,645734.68,15,São Paulo,9,3,Silver
+Serviços,1197770.02,17,São Paulo,7,3,Silver
+Comércio,619332.74,17,Rio de Janeiro,6,4,Silver
+Comércio,973809.28,17,Rio de Janeiro,14,1,Bronze
+Indústria,1055849.89,16,Belo Horizonte,13,9,Silver
+Comércio,743078.06,12,São Paulo,12,3,Bronze
+Indústria,853682.38,11,São Paulo,8,0,Bronze
+Agronegócio,1188462.86,17,Rio de Janeiro,9,8,Silver
+Agronegócio,1922245.53,10,Rio de Janeiro,9,7,Silver
+Comércio,854257.82,13,Vitória,13,6,Silver
+Serviços,296714.92,8,Rio de Janeiro,8,1,Starter
+Indústria,1398126.07,12,São Paulo,12,2,Bronze
+Agronegócio,1366079.54,15,Vitória,12,3,Bronze
+Serviços,615848.03,15,São Paulo,3,0,Starter
+Comércio,95680.54,12,Rio de Janeiro,12,0,Starter
+Comércio,588181.56,16,Vitória,8,2,Bronze
+Agronegócio,2263343.91,12,Belo Horizonte,9,1,Bronze
+Serviços,992946.81,16,Vitória,10,5,Silver
+Agronegócio,990270.34,16,Vitória,7,9,Silver
+Indústria,899158.38,10,Rio de Janeiro,7,9,Silver
+Indústria,969864.84,17,Vitória,10,4,Silver
+Serviços,866778.96,15,Rio de Janeiro,6,1,Bronze
+Indústria,1523849.47,16,Vitória,10,7,Silver
+Comércio,842146.63,12,Vitória,8,8,Silver
+Serviços,431140.66,10,São Paulo,9,3,Bronze
+Comércio,1102025.65,6,Rio de Janeiro,10,5,Silver
+Indústria,837639.72,14,Vitória,2,2,Bronze
+Indústria,1539172.91,12,Belo Horizonte,10,0,Bronze
+Agronegócio,662659.12,15,Belo Horizonte,14,1,Bronze
+Indústria,873208.52,13,São Paulo,6,5,Bronze
+Comércio,1191112.82,15,Vitória,13,1,Bronze
+Agronegócio,936929.11,14,Rio de Janeiro,11,1,Silver
+Comércio,653645.84,10,Vitória,6,7,Bronze
+Serviços,914998.87,14,Rio de Janeiro,13,5,Silver
+Agronegócio,931561.93,9,Belo Horizonte,12,2,Silver
+Indústria,1489753.71,11,Rio de Janeiro,8,2,Bronze
+Serviços,389151.32,13,Rio de Janeiro,10,3,Bronze
+Comércio,734331.53,15,Rio de Janeiro,9,5,Bronze
+Serviços,1195418.56,14,Vitória,9,8,Silver
+Comércio,1077111.04,9,Vitória,9,7,Silver
+Indústria,1098366.38,13,São Paulo,12,2,Bronze
+Serviços,1578288.81,13,Belo Horizonte,13,2,Bronze
+Comércio,903521.24,18,São Paulo,4,7,Silver
+Indústria,1293348.75,18,Vitória,7,3,Silver
+Indústria,559870.94,17,Vitória,10,9,Silver
+Indústria,1378891.79,13,Belo Horizonte,7,6,Bronze
+Indústria,1124033.51,12,São Paulo,13,1,Bronze
+Serviços,1239188.62,16,Rio de Janeiro,10,0,Bronze
+Indústria,241891.6,13,São Paulo,11,6,Silver
+Agronegócio,226715.57,16,Belo Horizonte,9,0,Starter
+Serviços,316147.85,15,Vitória,10,3,Bronze
+Comércio,983027.55,19,São Paulo,9,4,Silver
+Agronegócio,1081112.62,16,Vitória,7,1,Silver
+Indústria,1351509.91,16,Vitória,10,2,Silver
+Serviços,705494.09,18,Vitória,12,8,Silver
+Agronegócio,1616152.72,16,Rio de Janeiro,10,7,Silver
+Agronegócio,121410.81,3,São Paulo,7,6,Starter
+Indústria,1379112.59,9,Rio de Janeiro,15,9,Silver
+Serviços,371592.27,14,Vitória,3,4,Starter
+Comércio,1005847.92,13,Vitória,5,1,Bronze
+Serviços,909973.14,17,Rio de Janeiro,8,1,Bronze
+Serviços,717966.54,14,Vitória,9,4,Silver
+Comércio,1079558.76,12,Rio de Janeiro,4,5,Bronze
+Indústria,348577.69,17,São Paulo,11,0,Bronze
+Agronegócio,1419109.8,13,São Paulo,10,3,Bronze
+Agronegócio,785108.04,14,Rio de Janeiro,7,8,Silver
+Serviços,2083352.96,4,São Paulo,7,3,Silver
+Serviços,705535.84,16,São Paulo,9,5,Bronze
+Indústria,1102257.75,12,Rio de Janeiro,14,9,Silver
+Comércio,184770.26,11,Vitória,9,8,Bronze
+Agronegócio,1146243.42,16,Belo Horizonte,12,7,Silver
+Agronegócio,1706382.47,15,São Paulo,11,7,Gold
+Comércio,1932443.78,13,São Paulo,14,7,Silver
+Indústria,1443795.53,14,Belo Horizonte,10,0,Silver
+Serviços,1388175.16,13,Belo Horizonte,8,2,Bronze
+Comércio,1033935.28,9,Belo Horizonte,14,8,Silver
+Serviços,1506130.56,18,Rio de Janeiro,9,0,Silver
+Agronegócio,971873.18,13,Rio de Janeiro,12,4,Bronze
+Comércio,1231155.45,11,Belo Horizonte,11,3,Silver
+Indústria,856263.52,14,São Paulo,11,0,Bronze
+Indústria,789695.82,14,São Paulo,16,2,Bronze
+Agronegócio,617845.52,13,São Paulo,3,5,Bronze
+Comércio,997025.99,19,Belo Horizonte,7,4,Silver
+Indústria,993329.43,18,Belo Horizonte,11,9,Silver
+Agronegócio,1439742.37,15,Belo Horizonte,7,2,Bronze
+Indústria,1083390.19,17,São Paulo,10,9,Gold
+Comércio,763290.3,11,Belo Horizonte,7,4,Silver
+Agronegócio,1132167.53,7,Rio de Janeiro,11,4,Silver
+Comércio,1404262.26,15,São Paulo,5,9,Silver
+Comércio,833741.24,12,Belo Horizonte,8,6,Silver
+Comércio,833486.37,18,São Paulo,11,0,Bronze
+Comércio,949003.35,12,São Paulo,9,1,Bronze
+Comércio,1383614.28,14,Vitória,8,3,Silver
+Agronegócio,603109.29,18,Belo Horizonte,12,2,Bronze
+Comércio,810709.96,14,Belo Horizonte,10,2,Silver
+Indústria,735388.51,17,Rio de Janeiro,10,9,Silver
+Agronegócio,1574289.73,16,Belo Horizonte,7,6,Silver
+Comércio,1589880.1,9,Belo Horizonte,7,0,Bronze
+Comércio,993467.4,9,Belo Horizonte,10,4,Silver
+Agronegócio,863881.59,15,São Paulo,10,7,Silver
+Serviços,332979.68,12,Belo Horizonte,6,0,Starter
+Serviços,831586.64,13,Vitória,16,1,Bronze
+Agronegócio,18421.22,14,São Paulo,12,2,Starter
+Comércio,823011.86,13,Belo Horizonte,7,9,Silver
+Serviços,643092.4,7,Vitória,12,2,Bronze
+Comércio,958451.91,9,Belo Horizonte,7,7,Bronze
+Agronegócio,1841715.96,14,Rio de Janeiro,6,0,Bronze
+Serviços,1114979.28,2,Rio de Janeiro,5,6,Bronze
+Indústria,843237.64,14,Belo Horizonte,7,6,Bronze
+Comércio,853807.58,18,Rio de Janeiro,11,2,Bronze
+Indústria,1267527.12,14,Rio de Janeiro,13,3,Bronze
+Indústria,722272.13,17,Rio de Janeiro,10,5,Silver
+Agronegócio,580396.98,15,São Paulo,10,7,Silver
+Comércio,1153343.69,13,Rio de Janeiro,11,2,Silver
+Serviços,1243667.61,14,Rio de Janeiro,7,6,Silver
+Serviços,1655885.31,9,Vitória,13,7,Silver
+Agronegócio,1563607.42,11,Belo Horizonte,10,7,Gold
+Comércio,1404873.5,13,Belo Horizonte,13,2,Bronze
+Indústria,723535.75,6,Vitória,15,2,Bronze
+Comércio,1276078.67,13,São Paulo,13,4,Silver
+Agronegócio,810805.33,15,São Paulo,2,9,Bronze
+Serviços,1555042.97,8,Rio de Janeiro,11,8,Silver
+Indústria,1142214.41,16,Vitória,9,6,Silver
+Indústria,1272544.7,16,Vitória,9,3,Silver
+Comércio,983440.97,7,Belo Horizonte,12,5,Silver
+Agronegócio,103994.8,13,Belo Horizonte,10,1,Starter
+Indústria,1236114.44,7,Belo Horizonte,5,1,Bronze
+Indústria,1565259.29,16,Vitória,4,9,Silver
+Comércio,909928.51,13,Vitória,11,7,Silver
+Comércio,1518495.54,15,São Paulo,16,9,Gold
+Indústria,1353384.97,13,Rio de Janeiro,7,6,Silver
+Indústria,1050126.53,12,Rio de Janeiro,4,2,Bronze
+Serviços,1094043.53,14,Vitória,8,4,Silver
+Agronegócio,1078181.16,20,Belo Horizonte,9,6,Silver
+Comércio,1480465.17,19,Belo Horizonte,8,0,Silver
+Serviços,267812.36,3,Belo Horizonte,7,9,Bronze
+Serviços,1754666.01,16,Vitória,6,9,Silver
+Agronegócio,1070918.51,15,Belo Horizonte,13,8,Gold
+Agronegócio,334835.36,17,Vitória,8,7,Silver
+Serviços,1290549.96,16,Rio de Janeiro,12,0,Bronze
+Agronegócio,1363863.52,11,São Paulo,6,4,Silver
+Agronegócio,834438.57,18,São Paulo,9,7,Silver
+Comércio,1301428.04,18,Belo Horizonte,11,9,Silver
+Agronegócio,148061.36,19,São Paulo,7,6,Bronze
+Comércio,850020.42,17,Rio de Janeiro,5,5,Silver
+Comércio,650241.43,10,Belo Horizonte,12,8,Silver
+Comércio,494926.48,16,Vitória,6,1,Starter
+Serviços,1057767.62,3,Vitória,10,9,Bronze
+Indústria,627273.65,17,Rio de Janeiro,8,8,Silver
+Indústria,665358.48,16,Vitória,10,9,Silver
+Indústria,740201.08,11,Vitória,10,0,Bronze
+Indústria,991762.16,19,Vitória,7,3,Silver
+Agronegócio,1230575.08,16,Belo Horizonte,12,8,Silver
+Indústria,174738.56,16,Rio de Janeiro,6,1,Starter
+Serviços,1407737.12,16,Vitória,10,8,Silver
+Comércio,1376121.85,14,Rio de Janeiro,7,1,Bronze
+Serviços,763143.44,17,Vitória,8,0,Bronze
+Comércio,1009984.8,14,São Paulo,10,4,Silver
+Indústria,965508.49,18,Belo Horizonte,15,4,Silver
+Agronegócio,1118393.81,13,Vitória,5,3,Bronze
+Serviços,1094810.2,14,Belo Horizonte,8,8,Silver
+Comércio,1093585.71,14,Rio de Janeiro,10,7,Silver
+Agronegócio,1248640.73,14,Rio de Janeiro,12,1,Silver
+Comércio,1475870,10,Rio de Janeiro,9,0,Silver
+Serviços,564348.59,15,São Paulo,8,7,Silver
+Serviços,768322.67,12,Rio de Janeiro,8,4,Silver
+Comércio,1032819.03,12,Vitória,10,1,Bronze
+Agronegócio,816484.64,17,Rio de Janeiro,4,5,Bronze
+Comércio,535199.75,21,São Paulo,13,0,Bronze
+Indústria,743926.38,14,Belo Horizonte,12,0,Silver
+Comércio,852074.86,16,São Paulo,9,2,Bronze
+Comércio,1194723.4,13,Rio de Janeiro,7,1,Bronze
+Comércio,849942.63,12,Vitória,9,0,Bronze
+Serviços,1330082.14,17,São Paulo,6,2,Silver
+Agronegócio,861194.33,13,Belo Horizonte,14,4,Silver
+Comércio,312067.61,15,São Paulo,7,3,Bronze
+Agronegócio,554967.95,13,Rio de Janeiro,9,9,Silver
+Agronegócio,608858.82,18,Vitória,10,1,Bronze
+Serviços,271560.28,14,Belo Horizonte,6,0,Bronze
+Indústria,1171807.82,15,Vitória,6,9,Silver
+Comércio,1063111.93,15,Vitória,12,5,Silver
+Indústria,726828.81,18,São Paulo,9,6,Silver
+Agronegócio,864076.14,17,Vitória,11,6,Silver
+Comércio,1134311.38,14,Rio de Janeiro,10,7,Silver
+Serviços,1220385.54,15,Belo Horizonte,8,8,Silver
+Indústria,988495.51,13,Belo Horizonte,9,2,Silver
+Indústria,769054.24,11,Rio de Janeiro,2,8,Bronze
+Comércio,1027960.98,13,Vitória,13,0,Silver
+Indústria,1063262.79,8,Vitória,9,3,Bronze
+Comércio,910568.59,16,Rio de Janeiro,7,0,Bronze
+Indústria,1716130.92,16,Rio de Janeiro,8,3,Silver
+Indústria,1230763.9,15,Belo Horizonte,7,7,Silver
+Agronegócio,1014070.01,11,Vitória,12,6,Silver
+Serviços,989109.67,14,São Paulo,8,2,Bronze
+Indústria,531384.99,17,Rio de Janeiro,7,7,Bronze
+Serviços,84497.94,7,São Paulo,5,5,Starter
+Comércio,1385339.46,15,Belo Horizonte,5,4,Silver
+Agronegócio,1009392.87,11,São Paulo,13,8,Silver
+Serviços,787481.84,18,Vitória,7,4,Silver
+Comércio,679053.92,13,Rio de Janeiro,5,7,Silver
+Serviços,1100001.65,19,Rio de Janeiro,13,3,Silver
+Serviços,2390677.22,10,Belo Horizonte,6,1,Bronze
+Comércio,977980.47,18,Belo Horizonte,9,2,Bronze
+Comércio,598717.71,13,Rio de Janeiro,5,2,Bronze
+Agronegócio,1025701.64,15,Vitória,11,9,Silver
+Agronegócio,788278.22,13,Rio de Janeiro,8,3,Silver
+Agronegócio,64711.22,17,Belo Horizonte,4,6,Bronze
+Indústria,1570819.07,15,Vitória,11,8,Gold
+Indústria,1993908.63,14,São Paulo,6,6,Silver
+Agronegócio,785668.64,15,São Paulo,9,9,Silver
+Indústria,1258737.22,15,São Paulo,13,0,Bronze
+Agronegócio,1320450.27,15,Rio de Janeiro,7,0,Silver
+Comércio,911615.28,15,Belo Horizonte,6,1,Bronze
+Serviços,533072.17,12,Belo Horizonte,9,6,Bronze
+Indústria,659624.71,14,Belo Horizonte,8,5,Silver
+Agronegócio,1367765.95,14,Belo Horizonte,8,7,Gold
+Indústria,1370699.52,14,São Paulo,10,6,Silver
+Serviços,757658.35,8,São Paulo,16,7,Bronze
+Serviços,1286670.98,14,São Paulo,10,0,Bronze
+Serviços,1650111.3,12,Vitória,9,5,Silver
+Comércio,803823.34,15,Belo Horizonte,8,9,Silver
+Indústria,1133686.14,10,São Paulo,9,2,Silver
+Serviços,1016606.48,15,Vitória,7,8,Silver
+Serviços,1209830.96,15,Vitória,10,2,Silver
+Agronegócio,768946.51,14,Rio de Janeiro,12,4,Bronze
+Comércio,1236870.36,14,Vitória,10,9,Silver
+Agronegócio,1373604.43,11,Rio de Janeiro,9,7,Silver
+Agronegócio,791201.94,12,Vitória,8,0,Bronze
+Comércio,470253.72,13,Vitória,5,3,Bronze
+Indústria,1244020.43,11,Vitória,5,7,Bronze
+Agronegócio,323593.53,16,Vitória,9,6,Silver
+Indústria,839638.4,12,São Paulo,11,0,Bronze
+Indústria,1460403.03,11,Belo Horizonte,11,8,Silver
+Comércio,1255764.84,17,São Paulo,14,6,Silver
+Serviços,915799.22,14,Belo Horizonte,13,5,Silver
+Serviços,1541762.74,8,Belo Horizonte,9,4,Silver
+Indústria,429688.53,13,Belo Horizonte,8,7,Silver
+Agronegócio,800004.44,17,Rio de Janeiro,9,5,Bronze
+Indústria,1017325.17,18,Vitória,12,6,Silver
+Serviços,60516.83,14,Rio de Janeiro,9,4,Bronze
+Indústria,1207098.74,12,Vitória,10,9,Silver
+Indústria,791704.75,13,Vitória,12,2,Bronze
+Agronegócio,1655693.05,13,Vitória,12,0,Silver
+Agronegócio,1281521.01,6,Rio de Janeiro,12,7,Silver
+Comércio,1902144.56,10,Vitória,9,7,Silver
+Serviços,853723.67,8,Rio de Janeiro,10,8,Silver
+Serviços,1344366.16,12,Vitória,5,8,Bronze
+Indústria,884940.1,17,São Paulo,13,4,Silver
+Agronegócio,625599.74,15,Rio de Janeiro,7,2,Bronze
+Indústria,908289.25,16,Belo Horizonte,13,1,Bronze
+Comércio,1032183.53,14,Belo Horizonte,11,8,Silver
+Indústria,2107306.42,11,Belo Horizonte,7,1,Bronze
+Serviços,481595.99,13,Rio de Janeiro,7,3,Silver
+Serviços,663326.41,18,São Paulo,16,9,Silver
+Comércio,1588245.25,10,Rio de Janeiro,11,0,Bronze
+Indústria,921770.07,9,Rio de Janeiro,12,6,Bronze
+Agronegócio,163682.26,18,Vitória,15,4,Bronze
+Agronegócio,1247176.41,10,Rio de Janeiro,4,8,Bronze
+Comércio,1212901.4,15,Rio de Janeiro,7,1,Bronze
+Serviços,851080.66,15,Belo Horizonte,12,5,Silver
+Indústria,942883.08,15,São Paulo,7,8,Silver
+Comércio,1707923.52,6,São Paulo,11,6,Silver
+Agronegócio,1177227.98,16,Rio de Janeiro,13,1,Bronze
+Agronegócio,499441.3,13,Vitória,12,1,Bronze
+Indústria,1395925.1,14,Rio de Janeiro,11,8,Silver
+Indústria,1456142.58,15,Rio de Janeiro,9,8,Gold
+Comércio,693629.48,15,Rio de Janeiro,9,3,Silver
+Comércio,1209549.81,12,Rio de Janeiro,6,5,Silver
+Comércio,1713025.38,14,Belo Horizonte,4,2,Silver
+Indústria,1292741.18,11,Belo Horizonte,14,0,Silver
+Indústria,911521.72,18,São Paulo,11,3,Silver
+Serviços,1094337.38,15,Rio de Janeiro,11,1,Bronze
+Agronegócio,880090.72,13,Belo Horizonte,6,1,Bronze
+Serviços,1015654.17,14,Rio de Janeiro,7,2,Bronze
+Agronegócio,1398871.6,14,Vitória,14,0,Bronze
+Comércio,1327130.38,14,Rio de Janeiro,6,7,Silver
+Indústria,1129203.5,18,São Paulo,11,3,Silver
+Agronegócio,941612.29,13,Rio de Janeiro,7,9,Silver
+Serviços,854382.67,15,Rio de Janeiro,12,1,Silver
+Serviços,1318621.28,14,Rio de Janeiro,9,2,Silver
+Indústria,1458066.67,20,São Paulo,9,6,Silver
+Comércio,1728544.72,18,São Paulo,10,2,Silver
+Agronegócio,1161568.8,9,Belo Horizonte,7,7,Bronze
+Indústria,780121.59,14,São Paulo,6,7,Bronze
+Indústria,1298316.46,16,Belo Horizonte,12,6,Silver
+Indústria,1337880.08,18,Vitória,10,9,Silver
+Serviços,231562.65,13,Vitória,9,6,Bronze
+Indústria,823374.93,10,Belo Horizonte,6,1,Starter
+Serviços,356229.62,14,Rio de Janeiro,8,9,Bronze
+Agronegócio,1532181.14,8,Belo Horizonte,2,6,Bronze
+Agronegócio,1006625.13,12,Rio de Janeiro,14,1,Bronze
+Indústria,1104801.34,12,Belo Horizonte,5,3,Bronze
+Agronegócio,722920.8,8,São Paulo,9,8,Silver
+Serviços,734238.96,15,Rio de Janeiro,10,3,Bronze
+Comércio,805436.7,15,Vitória,3,4,Bronze
+Agronegócio,1647453.28,17,São Paulo,11,2,Silver
+Comércio,898610.61,11,Vitória,9,0,Bronze
+Serviços,626629.6,17,Vitória,10,9,Silver
+Serviços,1794352.93,3,São Paulo,12,9,Silver
+Indústria,1043981.61,11,Belo Horizonte,10,9,Silver
+Serviços,665572.04,15,São Paulo,13,4,Silver
+Comércio,932845.17,11,Vitória,8,6,Bronze
+Agronegócio,1569380.97,10,Vitória,9,1,Bronze
+Indústria,1216938.1,17,Vitória,6,2,Bronze
+Comércio,1093042.03,9,Belo Horizonte,12,7,Silver
+Comércio,1348626.67,12,Rio de Janeiro,10,0,Bronze
+Indústria,203045.12,12,Rio de Janeiro,6,6,Bronze
+Serviços,602393.66,17,Belo Horizonte,10,3,Silver
+Serviços,1010038.24,14,São Paulo,11,8,Silver
+Indústria,929711.04,17,São Paulo,8,5,Bronze
+Agronegócio,1116387.07,12,Belo Horizonte,7,0,Bronze
+Indústria,1683711.93,16,Belo Horizonte,13,6,Silver
+Agronegócio,626776.88,17,São Paulo,11,7,Silver
+Indústria,1219653.63,12,São Paulo,7,5,Silver
+Indústria,1314583.32,14,Rio de Janeiro,8,6,Silver
+Comércio,1535533.76,14,São Paulo,10,3,Silver
+Comércio,1936486.41,18,Rio de Janeiro,10,5,Gold
+Indústria,1382271.23,15,Vitória,13,7,Silver
+Indústria,1238547.54,13,Vitória,9,3,Bronze
+Agronegócio,944765.54,15,Rio de Janeiro,8,7,Bronze
+Agronegócio,1057982.09,17,Vitória,7,0,Bronze
+Indústria,1046845.34,2,Vitória,9,8,Bronze
+Agronegócio,333127.92,17,São Paulo,10,8,Bronze
+Indústria,1189103.92,16,São Paulo,8,5,Silver
+Comércio,1003981.55,13,Rio de Janeiro,8,2,Bronze
+Comércio,629572.6,16,Vitória,8,1,Bronze
+Indústria,753664.57,14,Rio de Janeiro,8,0,Starter
+Serviços,549149.57,9,São Paulo,9,8,Bronze
+Indústria,1288325.43,15,São Paulo,15,4,Silver
+Agronegócio,928727.24,10,Rio de Janeiro,11,2,Silver
+Comércio,1843761.24,17,Belo Horizonte,15,1,Bronze
+Agronegócio,244825,15,Vitória,11,4,Bronze
+Indústria,656377.77,10,Vitória,10,4,Silver
+Comércio,1574626.03,11,Vitória,13,9,Gold
+Agronegócio,1439950.65,10,Vitória,12,7,Silver
+Serviços,721463.53,16,Rio de Janeiro,6,5,Bronze
+Serviços,1436673,12,São Paulo,12,3,Silver
+Comércio,841346.81,14,Vitória,7,2,Bronze
+Indústria,1485834.15,14,São Paulo,6,6,Silver
+Comércio,1459878,15,Vitória,4,5,Silver
+Agronegócio,1349860.72,17,São Paulo,10,9,Silver
+Indústria,1952250.45,12,Vitória,8,0,Bronze
+Serviços,1027285.87,15,Vitória,8,8,Silver
+Comércio,1053130.05,19,São Paulo,8,9,Silver
+Serviços,990690.47,16,São Paulo,7,3,Bronze
+Serviços,1118793.07,19,Belo Horizonte,8,2,Bronze
+Agronegócio,1902367.98,15,Rio de Janeiro,11,7,Gold
+Indústria,981440.96,14,Rio de Janeiro,8,8,Silver
+Agronegócio,506672.67,14,Vitória,12,8,Silver
+Indústria,1735063.39,10,São Paulo,8,6,Silver
+Comércio,686102.63,12,Vitória,16,3,Silver
+Indústria,715243.69,13,São Paulo,12,1,Bronze
+Serviços,1193834.4,15,Vitória,11,5,Silver
+Agronegócio,1743573.32,17,Belo Horizonte,12,6,Silver
+Comércio,1167501.7,17,Belo Horizonte,10,7,Silver
+Agronegócio,989883.92,13,São Paulo,16,1,Silver
+Comércio,1058929.85,11,São Paulo,7,8,Bronze
+Serviços,673865.11,9,Rio de Janeiro,11,7,Bronze
+Serviços,591593.3,16,Vitória,11,6,Silver
+Agronegócio,916748.4,19,Vitória,5,2,Silver
+Serviços,1694996.88,15,Rio de Janeiro,10,4,Silver
+Comércio,550053.3,10,Vitória,10,9,Silver
+Serviços,1195575.01,16,Belo Horizonte,8,1,Bronze
+Comércio,1867234.3,12,São Paulo,8,4,Silver
+Comércio,1077943.15,12,Vitória,12,9,Silver
+Serviços,1228736.22,14,Belo Horizonte,12,8,Silver
+Comércio,1003381.76,12,Vitória,7,3,Bronze
+Agronegócio,603305.03,14,Rio de Janeiro,12,1,Bronze
+Serviços,1220941.7,16,Belo Horizonte,14,1,Bronze
+Agronegócio,545859.25,14,Vitória,10,2,Bronze
+Serviços,1124754.89,10,São Paulo,6,6,Silver
+Agronegócio,1167866.74,17,Belo Horizonte,8,5,Silver
+Indústria,1362343.3,14,Belo Horizonte,8,7,Silver
+Serviços,1103149.26,13,São Paulo,14,6,Silver
+Agronegócio,743480.47,11,São Paulo,3,4,Bronze
+Serviços,434194.11,10,Vitória,11,6,Bronze
+Indústria,479869.9,16,Vitória,12,3,Bronze
+Serviços,1071831.13,14,Vitória,13,9,Silver
+Comércio,593531.52,12,Belo Horizonte,6,3,Bronze
+Comércio,1492116.94,15,Vitória,6,7,Silver
+Indústria,658580.22,18,Belo Horizonte,13,3,Silver
+Indústria,869605.13,13,Rio de Janeiro,9,4,Bronze
+Serviços,879688.87,15,Belo Horizonte,8,3,Bronze
+Serviços,725022.65,13,Rio de Janeiro,11,1,Bronze
+Comércio,1316076.16,16,São Paulo,11,3,Silver
+Comércio,1056532.62,13,São Paulo,8,5,Silver
+Serviços,836973.51,17,São Paulo,11,6,Silver
+Comércio,79015.03,5,Vitória,11,2,Starter
+Agronegócio,1780802.99,13,São Paulo,7,7,Gold
+Agronegócio,1328577.86,14,Vitória,10,3,Bronze
+Serviços,435489.53,14,São Paulo,13,0,Bronze
+Agronegócio,844782.42,5,Vitória,9,1,Starter
+Indústria,1298004.31,15,Belo Horizonte,12,2,Silver
+Comércio,1662826.01,13,Vitória,9,9,Silver
+Comércio,970959.21,15,Vitória,11,5,Bronze
+Agronegócio,869638.69,18,Rio de Janeiro,10,6,Silver
+Comércio,1009839.03,14,São Paulo,15,6,Silver
+Serviços,1021085.99,12,São Paulo,10,1,Bronze
+Comércio,1239494.05,14,Rio de Janeiro,4,6,Bronze
+Comércio,1536684.3,15,Vitória,13,5,Gold
+Comércio,1068322.53,13,Rio de Janeiro,7,9,Silver
+Comércio,983540.2,13,Vitória,10,6,Silver
+Comércio,880695.38,14,Belo Horizonte,10,9,Silver
+Agronegócio,119950.58,15,Rio de Janeiro,8,4,Bronze
+Serviços,1346978.95,14,Rio de Janeiro,10,2,Bronze
+Agronegócio,1752009.96,13,Vitória,5,0,Bronze
+Comércio,1061121.78,14,Belo Horizonte,16,4,Silver
+Indústria,1358513.26,17,Belo Horizonte,8,8,Silver
+Indústria,254263.2,13,São Paulo,7,5,Bronze
+Comércio,475032.23,16,Rio de Janeiro,10,1,Bronze
+Agronegócio,1330014.86,12,Vitória,10,5,Silver
+Agronegócio,1042344.43,12,Vitória,5,1,Bronze
+Serviços,429809.37,12,São Paulo,11,6,Bronze
+Comércio,1198949.59,15,Rio de Janeiro,5,1,Bronze
+Agronegócio,1024828.18,14,Vitória,10,4,Silver
+Serviços,1878689.05,17,Rio de Janeiro,10,7,Silver
+Comércio,1635893.76,18,Belo Horizonte,4,6,Silver
+Agronegócio,1147381.02,17,Belo Horizonte,6,4,Silver
+Comércio,1155825.73,13,São Paulo,11,7,Silver
+Serviços,1295183.25,17,São Paulo,9,6,Silver
+Comércio,654953.48,11,São Paulo,15,7,Silver
+Comércio,1130027.72,8,Vitória,7,5,Silver
+Serviços,25576.28,12,Rio de Janeiro,16,2,Starter
+Indústria,1227045.41,15,São Paulo,11,0,Bronze
+Indústria,805517.39,11,Rio de Janeiro,12,1,Bronze
+Serviços,1169132.47,15,Rio de Janeiro,11,3,Silver
+Agronegócio,1109076.58,15,Vitória,10,8,Silver
+Comércio,695368.23,15,Rio de Janeiro,15,2,Bronze
+Comércio,1355673.25,15,Rio de Janeiro,13,5,Silver
+Indústria,809933.42,16,Rio de Janeiro,7,0,Bronze
+Comércio,1229181.97,11,Vitória,8,0,Bronze
+Serviços,1693342.51,14,Belo Horizonte,4,7,Silver
+Agronegócio,618250.8,9,Belo Horizonte,11,8,Silver
+Agronegócio,811781.56,14,Rio de Janeiro,6,4,Bronze
+Comércio,745302.32,13,Rio de Janeiro,9,3,Bronze
+Serviços,1052598.3,15,São Paulo,11,4,Bronze
+Agronegócio,1103740.65,18,Belo Horizonte,11,8,Silver
+Serviços,1810013.45,12,Vitória,8,0,Bronze
+Indústria,1334308.97,14,São Paulo,6,2,Bronze
+Agronegócio,1425718.91,17,Vitória,5,5,Bronze
+Comércio,1662467.08,8,Vitória,1,7,Bronze
+Agronegócio,1681458.49,14,Belo Horizonte,13,8,Gold
+Serviços,1509385.85,13,Belo Horizonte,11,0,Silver
+Comércio,1533062.06,18,Vitória,5,9,Silver
+Comércio,786224.94,9,São Paulo,12,2,Silver
+Agronegócio,445571.87,15,São Paulo,13,1,Bronze
+Serviços,505124.91,14,Vitória,7,5,Bronze
+Indústria,2006688.81,13,São Paulo,13,5,Silver
+Agronegócio,416429.3,14,São Paulo,7,1,Starter
+Indústria,215580.61,11,Belo Horizonte,7,3,Starter
+Serviços,1050776.57,14,Vitória,8,0,Bronze
+Comércio,785671.05,15,Vitória,9,2,Bronze
+Serviços,658330.45,20,Belo Horizonte,4,8,Bronze
+Agronegócio,1643153.26,14,Rio de Janeiro,10,1,Bronze
+Serviços,1581841.42,17,Rio de Janeiro,8,2,Silver
+Indústria,1291309.57,9,São Paulo,6,9,Bronze
+Serviços,2211489.85,10,Belo Horizonte,10,0,Bronze
+Agronegócio,1460860.46,12,Rio de Janeiro,5,3,Silver
+Indústria,173684.43,13,Belo Horizonte,4,9,Bronze
